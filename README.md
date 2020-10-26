@@ -12,7 +12,7 @@
  - ### One Proportion: 
  Only one proportion of the population is considered.
  
- #### Estimating a Population Porportion with Confidence:
+ #### Estimating a Population Proportion with Confidence:
  
 <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_cm&space;Confidence&space;Interval&space;=&space;Best&space;Estimate&space;\pm&space;Margin&space;of&space;Error" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\fn_cm&space;Confidence&space;Interval&space;=&space;Best&space;Estimate&space;\pm&space;Margin&space;of&space;Error" title="Confidence Interval = Best Estimate \pm Margin of Error" /></a>
  
