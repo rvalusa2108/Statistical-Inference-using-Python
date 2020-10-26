@@ -1,3 +1,5 @@
+# Memorandum  
+
 TO: Head Trainer  
 FROM: Raghu Valusa  
 DATE: Oct 26, 2020  
